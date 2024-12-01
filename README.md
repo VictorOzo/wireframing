@@ -1,1 +1,2 @@
 # wireframing
+Wireframing is the process of creating a visual blueprint of a website, application, or digital product. It is a simplified, low-fidelity representation of a design that focuses on structure, layout, and functionality rather than aesthetics or detailed visuals. Wireframes typically use basic shapes like boxes, lines, and placeholders to outline where key elements such as buttons, text, images, and navigation will appear.
